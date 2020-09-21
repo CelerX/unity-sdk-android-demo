@@ -14,7 +14,7 @@ public class CelerXUnityAndroidApp : IPostGenerateGradleAndroidProject
         overrideUnityLibBuildGradle(rootProject);
 
         var lancherModuleManifest = new AndroidManifest(GetManifestPath(rootProject));
-        lancherModuleManifest.setApplicationToolReplace("android:label,android:icon");
+        lancherModuleManifest.setApplicationToolReplace("android:label,android:icon,android:roundIcon");
         lancherModuleManifest.Save();
 
         File.Delete(rootProject + "/unityLibrary/libs/unity-classes.jar");
