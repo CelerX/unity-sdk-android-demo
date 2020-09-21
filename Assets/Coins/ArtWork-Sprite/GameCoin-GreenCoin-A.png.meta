@@ -1,0 +1,1663 @@
+fileFormatVersion: 2
+guid: 19f719114a8063243bfb2a0cb6ceccc6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: GameCoin-GreenCoin-A_0
+  - first:
+      213: 21300002
+    second: GameCoin-GreenCoin-A_1
+  - first:
+      213: 21300004
+    second: GameCoin-GreenCoin-A_2
+  - first:
+      213: 21300006
+    second: GameCoin-GreenCoin-A_3
+  - first:
+      213: 21300008
+    second: GameCoin-GreenCoin-A_4
+  - first:
+      213: 21300010
+    second: GameCoin-GreenCoin-A_5
+  - first:
+      213: 21300012
+    second: GameCoin-GreenCoin-A_6
+  - first:
+      213: 21300014
+    second: GameCoin-GreenCoin-A_7
+  - first:
+      213: 21300016
+    second: GameCoin-GreenCoin-A_8
+  - first:
+      213: 21300018
+    second: GameCoin-GreenCoin-A_9
+  - first:
+      213: 21300020
+    second: GameCoin-GreenCoin-A_10
+  - first:
+      213: 21300022
+    second: GameCoin-GreenCoin-A_11
+  - first:
+      213: 21300024
+    second: GameCoin-GreenCoin-A_12
+  - first:
+      213: 21300026
+    second: GameCoin-GreenCoin-A_13
+  - first:
+      213: 21300028
+    second: GameCoin-GreenCoin-A_14
+  - first:
+      213: 21300030
+    second: GameCoin-GreenCoin-A_15
+  - first:
+      213: 21300032
+    second: GameCoin-GreenCoin-A_16
+  - first:
+      213: 21300034
+    second: GameCoin-GreenCoin-A_17
+  - first:
+      213: 21300036
+    second: GameCoin-GreenCoin-A_18
+  - first:
+      213: 21300038
+    second: GameCoin-GreenCoin-A_19
+  - first:
+      213: 21300040
+    second: GameCoin-GreenCoin-A_20
+  - first:
+      213: 21300042
+    second: GameCoin-GreenCoin-A_21
+  - first:
+      213: 21300044
+    second: GameCoin-GreenCoin-A_22
+  - first:
+      213: 21300046
+    second: GameCoin-GreenCoin-A_23
+  - first:
+      213: 21300048
+    second: GameCoin-GreenCoin-A_24
+  - first:
+      213: 21300050
+    second: GameCoin-GreenCoin-A_25
+  - first:
+      213: 21300052
+    second: GameCoin-GreenCoin-A_26
+  - first:
+      213: 21300054
+    second: GameCoin-GreenCoin-A_27
+  - first:
+      213: 21300056
+    second: GameCoin-GreenCoin-A_28
+  - first:
+      213: 21300058
+    second: GameCoin-GreenCoin-A_29
+  - first:
+      213: 21300060
+    second: GameCoin-GreenCoin-A_30
+  - first:
+      213: 21300062
+    second: GameCoin-GreenCoin-A_31
+  - first:
+      213: 21300064
+    second: GameCoin-GreenCoin-A_32
+  - first:
+      213: 21300066
+    second: GameCoin-GreenCoin-A_33
+  - first:
+      213: 21300068
+    second: GameCoin-GreenCoin-A_34
+  - first:
+      213: 21300070
+    second: GameCoin-GreenCoin-A_35
+  - first:
+      213: 21300072
+    second: GameCoin-GreenCoin-A_36
+  - first:
+      213: 21300074
+    second: GameCoin-GreenCoin-A_37
+  - first:
+      213: 21300076
+    second: GameCoin-GreenCoin-A_38
+  - first:
+      213: 21300078
+    second: GameCoin-GreenCoin-A_39
+  - first:
+      213: 21300080
+    second: GameCoin-GreenCoin-A_40
+  - first:
+      213: 21300082
+    second: GameCoin-GreenCoin-A_41
+  - first:
+      213: 21300084
+    second: GameCoin-GreenCoin-A_42
+  - first:
+      213: 21300086
+    second: GameCoin-GreenCoin-A_43
+  - first:
+      213: 21300088
+    second: GameCoin-GreenCoin-A_44
+  - first:
+      213: 21300090
+    second: GameCoin-GreenCoin-A_45
+  - first:
+      213: 21300092
+    second: GameCoin-GreenCoin-A_46
+  - first:
+      213: 21300094
+    second: GameCoin-GreenCoin-A_47
+  - first:
+      213: 21300096
+    second: GameCoin-GreenCoin-A_48
+  - first:
+      213: 21300098
+    second: GameCoin-GreenCoin-A_49
+  - first:
+      213: 21300100
+    second: GameCoin-GreenCoin-A_50
+  - first:
+      213: 21300102
+    second: GameCoin-GreenCoin-A_51
+  - first:
+      213: 21300104
+    second: GameCoin-GreenCoin-A_52
+  - first:
+      213: 21300106
+    second: GameCoin-GreenCoin-A_53
+  - first:
+      213: 21300108
+    second: GameCoin-GreenCoin-A_54
+  - first:
+      213: 21300110
+    second: GameCoin-GreenCoin-A_55
+  - first:
+      213: 21300112
+    second: GameCoin-GreenCoin-A_56
+  - first:
+      213: 21300114
+    second: GameCoin-GreenCoin-A_57
+  - first:
+      213: 21300116
+    second: GameCoin-GreenCoin-A_58
+  - first:
+      213: 21300118
+    second: GameCoin-GreenCoin-A_59
+  - first:
+      213: 21300120
+    second: GameCoin-GreenCoin-A_60
+  - first:
+      213: 21300122
+    second: GameCoin-GreenCoin-A_61
+  - first:
+      213: 21300124
+    second: GameCoin-GreenCoin-A_62
+  - first:
+      213: 21300126
+    second: GameCoin-GreenCoin-A_63
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3734
+        width: 472
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_1
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 3734
+        width: 480
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_2
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 3734
+        width: 477
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_3
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 3734
+        width: 480
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_4
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3734
+        width: 479
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_5
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 3734
+        width: 476
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_6
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 3734
+        width: 475
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_7
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 3734
+        width: 472
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3199
+        width: 472
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 3199
+        width: 480
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_10
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 3199
+        width: 477
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_11
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 3199
+        width: 480
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_12
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3199
+        width: 480
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_13
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 3199
+        width: 476
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_14
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 3199
+        width: 475
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_15
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 3199
+        width: 472
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2661
+        width: 472
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_17
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 2661
+        width: 480
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_18
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 2661
+        width: 477
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_19
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2661
+        width: 479
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_20
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2661
+        width: 480
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_21
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 2676
+        width: 446
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_22
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 2676
+        width: 450
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_23
+      rect:
+        serializedVersion: 2
+        x: 3734
+        y: 2676
+        width: 450
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2140
+        width: 447
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_25
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2140
+        width: 448
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_26
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 2140
+        width: 445
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_27
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 2140
+        width: 448
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_28
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 2140
+        width: 447
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_29
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 2140
+        width: 446
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_30
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 2140
+        width: 450
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_31
+      rect:
+        serializedVersion: 2
+        x: 3734
+        y: 2140
+        width: 450
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1603
+        width: 447
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_33
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1605
+        width: 447
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_34
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1603
+        width: 445
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_35
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1605
+        width: 448
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_36
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 1604
+        width: 448
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_37
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 1603
+        width: 449
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_38
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 1604
+        width: 450
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_39
+      rect:
+        serializedVersion: 2
+        x: 3734
+        y: 1604
+        width: 450
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1067
+        width: 447
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_41
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1066
+        width: 446
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_42
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1066
+        width: 445
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_43
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 1066
+        width: 449
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_44
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 1066
+        width: 448
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_45
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 1067
+        width: 446
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_46
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 1066
+        width: 450
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_47
+      rect:
+        serializedVersion: 2
+        x: 3734
+        y: 1066
+        width: 450
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 534
+        width: 446
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_49
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 534
+        width: 447
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_50
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 534
+        width: 450
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_51
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 534
+        width: 448
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_52
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 534
+        width: 447
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_53
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 534
+        width: 450
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_54
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 534
+        width: 450
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_55
+      rect:
+        serializedVersion: 2
+        x: 3734
+        y: 534
+        width: 447
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 447
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_57
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 0
+        width: 448
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_58
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 0
+        width: 447
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_59
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 0
+        width: 449
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_60
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 0
+        width: 448
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_61
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 0
+        width: 446
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_62
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 0
+        width: 449
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-GreenCoin-A_63
+      rect:
+        serializedVersion: 2
+        x: 3734
+        y: 8
+        width: 450
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
