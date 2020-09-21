@@ -5,7 +5,7 @@ apply plugin: 'com.android.library'
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation 'network.celer:celerx-android-sdk:0.0.1'
+    implementation 'network.celer:celerx-android-sdk:0.0.2'
 }
 
 repositories {
