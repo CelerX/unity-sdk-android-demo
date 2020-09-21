@@ -1,6 +1,6 @@
-# CelerX Unity SDK on Android Demo: Rocket Rider
+# CelerX Unity SDK Android Demo: Rocket Rider
 
-This project is a Unity project which integrate CelerX game SDK with export to Android.
+This repo is a Unity project which integrate CelerX game SDK with export to Android.
 
 ## Install Unity
 
