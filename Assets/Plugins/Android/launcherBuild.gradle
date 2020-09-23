@@ -20,7 +20,7 @@ android {
         targetSdkVersion 29
         applicationId 'com.DefaultCompany.RocketRide'
         ndk {
-            abiFilters 'armeabi-v7a'
+            abiFilters 'arm64-v8a'
         }
         versionCode 1
         versionName '0.1'
@@ -53,7 +53,7 @@ android {
     }
 
     packagingOptions {
-        doNotStrip '*/armeabi-v7a/*.so'
+        doNotStrip '*/arm64-v8a/*.so'
     }
 
     bundle {
