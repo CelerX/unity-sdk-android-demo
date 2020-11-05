@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "849626852852",
+    "firebase_url": "https://celerproject-fe86e.firebaseio.com",
+    "project_id": "celerproject-fe86e",
+    "storage_bucket": "celerproject-fe86e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849626852852:android:dc904ecedab893a2229da1",
+        "android_client_info": {
+          "package_name": "celerx.app.unitydemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849626852852-um5qhsh9j31e3dk4lo0sqv7icc03qhh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6jb2QuRUQtiVnhXal0419UdhHCWYXdTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849626852852-um5qhsh9j31e3dk4lo0sqv7icc03qhh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
