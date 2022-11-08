@@ -4,7 +4,13 @@ This repo is a Unity project that indicates how to integrates CelerX Android SDK
 
 The example game is Pacman.
 
-## Install Unity
+## Tools
+
+- Unity Hub
+- Visual Studio (IDE)
+- Optional: Android Studio
+
+## 1. Install Unity
 
 Unity Version: 2019.3.6f1 (lowest support version is 2019.3.x)
 
@@ -14,21 +20,6 @@ Unity Hub -> Install-> Add Modules -> Android Build Support(With Android SDK & N
 
 ![Image Install Modules](images/modules_install.png)
 
-## Tools
-
-- Unity Hub
-- Visual Studio (IDE)
-- Optional: Android Studio
-
-## 1. Developer Portal Register
-
-Register the game on Celer Developer Portal, https://portal.celerx.app/
-
-![](images/developer_portal_register.png)
-
-Complete the register flow, developers will get the game id like this 000555, 
-the package name or bundle id is important identification in SDK to get this game information.
-The new game bucket's effective time is 5-10 minutes
 
 ## 2. Firebase Register
 
